@@ -1,0 +1,1 @@
+./Debug/ola6.cpp.o ./Debug/WordChecker.cpp.o

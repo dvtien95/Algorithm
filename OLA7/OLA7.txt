@@ -1,0 +1,1 @@
+./Debug/ola7.cpp.o ./Debug/Graph.cpp.o ./Debug/Menu.cpp.o
