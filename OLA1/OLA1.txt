@@ -1,0 +1,1 @@
+./Debug/ola1.cpp.o ./Debug/Student.cpp.o

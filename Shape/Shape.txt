@@ -1,0 +1,1 @@
+./Debug/main.cpp.o ./Debug/Shape.cpp.o ./Debug/Rectangle.cpp.o ./Debug/Circle.cpp.o

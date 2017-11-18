@@ -1,0 +1,1 @@
+./Debug/Card.cpp.o ./Debug/Deck.cpp.o ./Debug/Player.cpp.o ./Debug/ola2.cpp.o
