@@ -1,3 +1,1 @@
-# Algorithm
-
-Practice of coding algorithm using C++
+# Algorithm-C-

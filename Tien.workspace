@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Tien" Database="" Version="10.0.0">
+  <Project Name="Lesson1" Path="Lesson1/Lesson1.project" Active="No"/>
+  <Project Name="Test_0" Path="Test_0/Test_0.project" Active="No"/>
+  <Project Name="OLA1" Path="OLA1/OLA1.project" Active="No"/>
+  <Project Name="Bai1" Path="Bai1/Bai1.project" Active="No"/>
+  <Project Name="OLA2" Path="OLA2/OLA2.project" Active="No"/>
+  <Project Name="OLA3" Path="OLA3/OLA3.project" Active="No"/>
+  <Project Name="OLA4" Path="OLA4/OLA4.project" Active="No"/>
+  <Project Name="Shape" Path="Shape/Shape.project" Active="No"/>
+  <Project Name="OLA5" Path="OLA5/OLA5.project" Active="No"/>
+  <Project Name="OLA6" Path="OLA6/OLA6.project" Active="No"/>
+  <Project Name="OLA7" Path="OLA7/OLA7.project" Active="No"/>
+  <Project Name="Word_in_Sentence" Path="test/test.project" Active="No"/>
+  <Project Name="KhanhLe" Path="KhanhLe/KhanhLe.project" Active="No"/>
+  <Project Name="find101" Path="find101/find101.project" Active="No"/>
+  <Project Name="TwoThreeSum" Path="TwoSum/TwoSum.project" Active="No"/>
+  <Project Name="Binary_Tree" Path="Binary_Tree/Binary_Tree.project" Active="No"/>
+  <Project Name="Pascal_Triangle_List" Path="Pascal_Triangle_List/Pascal_Triangle_List.project" Active="No"/>
+  <Project Name="FlattenADictionary" Path="FlattenADictionary/FlattenADictionary.project" Active="No"/>
+  <Project Name="LongestPalindromeSubstring" Path="LongestPalindromeSubstring/LongestPalindromeSubstring.project" Active="No"/>
+  <Project Name="SpiralOrder" Path="SpiralOrder/SpiralOrder.project" Active="No"/>
+  <Project Name="countAndSay" Path="countAndSay/countAndSay.project" Active="No"/>
+  <Project Name="nutSack" Path="nutSack/nutSack.project" Active="No"/>
+  <Project Name="Longest01subArray" Path="Longest01subArray/Longest01subArray.project" Active="No"/>
+  <Project Name="MineSweeper" Path="MineSweeper/MineSweeper.project" Active="No"/>
+  <Project Name="RollTheBall" Path="RollTheBall/RollTheBall.project" Active="No"/>
+  <Project Name="DecryptMessage" Path="DecryptMessage/DecryptMessage.project" Active="No"/>
+  <Project Name="TEST_FEB2018" Path="TEST_FEB2018/TEST_FEB2018.project" Active="No"/>
+  <Project Name="String" Path="String/String.project" Active="No"/>
+  <Project Name="LinkedList" Path="LinkedList/LinkedList.project" Active="No"/>
+  <Project Name="tree" Path="tree/tree.project" Active="No"/>
+  <Project Name="findIsland" Path="findIsland/findIsland.project" Active="No"/>
+  <Project Name="heap_Priorityqueue" Path="heap_Priorityqueue/heap_Priorityqueue.project" Active="No"/>
+  <Project Name="searchSort" Path="searchSort/searchSort.project" Active="No"/>
+  <Project Name="BopBucketWater" Path="bucketWater/bucketWater.project" Active="No"/>
+  <Project Name="triangleInAList" Path="triangleInAList/triangleInAList.project" Active="No"/>
+  <Project Name="trie" Path="trie/trie.project" Active="No"/>
+  <Project Name="stringsOfLengthK_allPossible" Path="stringsOfLengthK_allPossible/stringsOfLengthK_allPossible.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Test_0" ConfigName="Debug"/>
+      <Project Name="Word_in_Sentence" ConfigName="Debug"/>
+      <Project Name="Shape" ConfigName="Debug"/>
+      <Project Name="OLA7" ConfigName="Debug"/>
+      <Project Name="OLA6" ConfigName="Debug"/>
+      <Project Name="OLA5" ConfigName="Debug"/>
+      <Project Name="OLA4" ConfigName="Debug"/>
+      <Project Name="OLA3" ConfigName="Debug"/>
+      <Project Name="OLA2" ConfigName="Debug"/>
+      <Project Name="OLA1" ConfigName="Debug"/>
+      <Project Name="Lesson1" ConfigName="Debug"/>
+      <Project Name="Bai1" ConfigName="Debug"/>
+      <Project Name="KhanhLe" ConfigName="Debug"/>
+      <Project Name="find101" ConfigName="Debug"/>
+      <Project Name="TwoThreeSum" ConfigName="Debug"/>
+      <Project Name="Binary_Tree" ConfigName="Debug"/>
+      <Project Name="Pascal_Triangle_List" ConfigName="Debug"/>
+      <Project Name="FlattenADictionary" ConfigName="Debug"/>
+      <Project Name="LongestPalindromeSubstring" ConfigName="Debug"/>
+      <Project Name="SpiralOrder" ConfigName="Debug"/>
+      <Project Name="countAndSay" ConfigName="Debug"/>
+      <Project Name="nutSack" ConfigName="Debug"/>
+      <Project Name="Longest01subArray" ConfigName="Debug"/>
+      <Project Name="MineSweeper" ConfigName="Debug"/>
+      <Project Name="RollTheBall" ConfigName="Debug"/>
+      <Project Name="DecryptMessage" ConfigName="Debug"/>
+      <Project Name="TEST_FEB2018" ConfigName="Debug"/>
+      <Project Name="String" ConfigName="Debug"/>
+      <Project Name="LinkedList" ConfigName="Debug"/>
+      <Project Name="tree" ConfigName="Debug"/>
+      <Project Name="findIsland" ConfigName="Debug"/>
+      <Project Name="heap_Priorityqueue" ConfigName="Debug"/>
+      <Project Name="searchSort" ConfigName="Debug"/>
+      <Project Name="BopBucketWater" ConfigName="Debug"/>
+      <Project Name="triangleInAList" ConfigName="Debug"/>
+      <Project Name="trie" ConfigName="Debug"/>
+      <Project Name="stringsOfLengthK_allPossible" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Lesson1" ConfigName="Release"/>
+      <Project Name="Test_0" ConfigName="Release"/>
+      <Project Name="OLA1" ConfigName="Release"/>
+      <Project Name="Bai1" ConfigName="Release"/>
+      <Project Name="OLA2" ConfigName="Release"/>
+      <Project Name="OLA3" ConfigName="Release"/>
+      <Project Name="OLA4" ConfigName="Release"/>
+      <Project Name="Shape" ConfigName="Release"/>
+      <Project Name="OLA5" ConfigName="Release"/>
+      <Project Name="OLA6" ConfigName="Release"/>
+      <Project Name="OLA7" ConfigName="Release"/>
+      <Project Name="Word_in_Sentence" ConfigName="Release"/>
+      <Project Name="KhanhLe" ConfigName="Release"/>
+      <Project Name="find101" ConfigName="Release"/>
+      <Project Name="TwoThreeSum" ConfigName="Release"/>
+      <Project Name="Binary_Tree" ConfigName="Release"/>
+      <Project Name="Pascal_Triangle_List" ConfigName="Release"/>
+      <Project Name="FlattenADictionary" ConfigName="Release"/>
+      <Project Name="LongestPalindromeSubstring" ConfigName="Release"/>
+      <Project Name="SpiralOrder" ConfigName="Release"/>
+      <Project Name="countAndSay" ConfigName="Release"/>
+      <Project Name="nutSack" ConfigName="Release"/>
+      <Project Name="Longest01subArray" ConfigName="Release"/>
+      <Project Name="MineSweeper" ConfigName="Release"/>
+      <Project Name="RollTheBall" ConfigName="Release"/>
+      <Project Name="DecryptMessage" ConfigName="Release"/>
+      <Project Name="TEST_FEB2018" ConfigName="Release"/>
+      <Project Name="String" ConfigName="Release"/>
+      <Project Name="LinkedList" ConfigName="Release"/>
+      <Project Name="tree" ConfigName="Release"/>
+      <Project Name="findIsland" ConfigName="Release"/>
+      <Project Name="heap_Priorityqueue" ConfigName="Release"/>
+      <Project Name="searchSort" ConfigName="Release"/>
+      <Project Name="BopBucketWater" ConfigName="Release"/>
+      <Project Name="triangleInAList" ConfigName="Release"/>
+      <Project Name="trie" ConfigName="Release"/>
+      <Project Name="stringsOfLengthK_allPossible" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

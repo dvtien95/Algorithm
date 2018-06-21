@@ -1,1 +1,0 @@
-./Debug/Student.cpp.o ./Debug/Roster.cpp.o ./Debug/ola1.cpp.o
